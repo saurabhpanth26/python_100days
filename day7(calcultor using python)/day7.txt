@@ -1,0 +1,12 @@
+Python has different types of opeators for different opeartions. to craete a calcultor we require arthemtic opeators.
+
+Arthemtic Opeartors
+Opeartors            Opeartors Name                   Example
++                    Addition                          15+2
+-                    Subtraction                       15-2
+*                    Multiplication                    5*7
+/                    Division                          15/7
+%                    Modules                           15%7
+//                   Floor Division                    15//7
+**                    Exponential                       (5**3)
+

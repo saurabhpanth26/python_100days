@@ -1,0 +1,25 @@
+day 1  
+What is Programming 
+Programming is a way for us to tell computers what to do. Computer is a very dumb machine and it only does what we tell it to do. Hence we learn programing  and tell computers to do what we are very slow at computation. If i ask you to calculate 5+6, you will immediatly say 11. How about 34234235234 X 234234 ?
+You will start searching for a calulator or jumo to new tab to calculate the same.
+
+What is python?
+- Python is a dynamically typed, general purpose programming language that supports an  object-oriented programing appraoch as well as fucntional programming approach as well as fucntional programming appraoch.
+- Python is an interpreted and a high level programming langauage.
+- It was craeted by Guido Van Rossum in 1989.
+
+Feature of Python !
+- Python is simple and easy to understand 
+- It is interpreted and platform-independent which makes debugging very easy.
+- python is an open-source programming language.
+- Python provides very big library support. Some of the popular libraries include Numpy, Tensorflow, Selenium, OpenCV, etc. 
+- It is possible to intergrate other programminglanguages within python.
+
+What is Python used for !
+- Python is used in Data Visualization to create plots and graphical represenatations.
+- Python helps in Data Analytics to analyze and underdstand raw data for insights nd trends.
+- It is used in AI and Machine learning to simulate human behavior and to learn from past without hard coding.
+- It is craete web applications.
+- It can be used to handle databases.
+- It is used in business and according to perform complex mathematical opeartions along with quantitative and qulaitive analysis.
+

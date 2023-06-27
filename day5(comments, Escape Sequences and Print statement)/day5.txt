@@ -1,0 +1,27 @@
+Python Comments 
+A comment is a part  of the coding file that the programer does not want to execute, rather the programer uses it to either expalin a block of code or to aviod the execution of a specific part of code while testing.
+
+Single-line comments:
+to write a comment just add a '#' at the start of the line.
+
+Multi-Line commets:
+To write multi-line comments you can use '#' at each line or you can use the multi line string.
+or
+you can use this """ at start or at the end """
+
+
+Escape Sequence Characters
+
+To insert Characters that cannot be directly used in a string, we use an escape Sequence character.
+
+An escape Sequence character is a blackslash '\' followed by the character you want to insert.
+
+More on a Print Statement 
+
+The syntax of a print statement looks something like this 
+print(object(s), spe=separartor, end=end, file=file, flush=flush)
+
+1. object - Any Object, and as many as you like. Will be converted to string before printed.
+2. Sep= 'separartor': Specify how to separate the objects, if there is more than one. Default is ''
+3. end='end': Specify what to print at the end. Default is '\n' (line feed) 
+4. file: An object with a write method. Deafult is sys. stdout.

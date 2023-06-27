@@ -1,0 +1,32 @@
+What is variable?
+Varibale is like conatiner that holds data. very similar to how our conatiners in kitchen holds sugar, salt etc. Creating a variable is like creating a placeholder in menory and assigning it some value. In python its as easy as writing:
+a = 1
+b = True
+c = "Saurabh"
+d = None
+
+
+These are four variables of different data types.
+
+What is Data Type?
+Data type specific the type of value a variable holds. This is required in programing to do various operations without causing an error. In python, we can print the type of any opeartor using the type fucntion:
+
+
+1. Numeric data: int,float, complex
+int - 3,8,0
+float - 3.4, 6.99, 7.1
+complex - 6 + 2i
+
+2. Text data: str
+str: "Hello World!", "Python Programing"
+
+3. Boolean data:
+Boolean data consists of values True or False.
+
+4. Sequenced data: list, tuple
+list: A list is an ordered collection of data with elements separated by a comma and enclosed within square brackets. Lists are mutable and can be modified after creation.
+
+Tuple: A tuple is an ordered collection of data which elements separated by a comma and enclosed within parameters. Tuples are immutable and can not be modified after creation.
+
+Dict: A dicitonary is an unordered collection of data conatining a key:value pairs are enclosed within curly brackets.
+
